@@ -1,5 +1,2 @@
-heres new stuff
-this is a new file heres a change to your file
-
-i am editing file within the branch
-i am also making changes on a different branch
+This week I helped fill out the rest of the requirement page and met the stakeholder for our project
+We also started to discuss first steps for our code
