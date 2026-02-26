@@ -1,1 +1,1 @@
-# CS375repo
+git commit -m "Resolved merge conflict"# CS375repo
