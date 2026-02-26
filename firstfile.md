@@ -1,5 +1,5 @@
+heres new stuff
+this is a new file heres a change to your file
 
-this is a new file
-
-i am editing the file within the branch
-  
+i am editing file within the branch
+i am also making changes on a different branch
